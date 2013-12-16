@@ -1,0 +1,2 @@
+x noiseOffset : 12.850004 Y noiseOffset : 1.799995
+scale : 72 currScale : 0.105 zScale : 750 zOffset : 140.0
