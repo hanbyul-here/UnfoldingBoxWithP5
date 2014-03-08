@@ -6,4 +6,4 @@ You can check how this code enables the fabrication over here  [http://itp.nyu.e
 
 This code was done for Parametric Design for Digital Fabrication class, NYU ITP, 2013.
 
-![ ](http://itp.nyu.edu/~hj657/blog/wp-content/uploads/2013/12/unfolded.jpg "example development")
+<img src="http://itp.nyu.edu/~hj657/blog/wp-content/uploads/2013/12/unfolded.jpg" alt="example development" />
