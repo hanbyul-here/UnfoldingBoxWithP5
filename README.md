@@ -11,6 +11,6 @@ This returns development like this :
 
 from this kind of sketch :
 
-<img src="http://hanbyul-here.net/img/bigpicture.png" alt="bit picture" />
+<img src="http://hanbyul-here.net/img/bigPicture.png" alt="bit picture" />
 
 This code was done for Parametric Design for Digital Fabrication class, NYU ITP, 2013.
